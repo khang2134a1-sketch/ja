@@ -63,4 +63,4 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-client.login("MTUwMTIwMTc3OTIwMTgwNjM1Ng.GasNCz.FQl5H-jTv6gTFUhZflcMz7wUoqBX4gDHI3-NJE");
+client.login("keylog");
